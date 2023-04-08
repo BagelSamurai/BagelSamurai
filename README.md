@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagelsamurai&label=Profile%20views&color=0e75b6&style=flat" alt="bagelsamurai" /> </p>
 - 🎓 I'm currently pursuing **B.S. Computer science and Mathematics**
+
 - 🌱 I’m currently learning **data anaylsis with python**
 
 - ⚡ Fun fact **It is impossible for most people to lick their own elbow**
