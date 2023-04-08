@@ -1,7 +1,3 @@
-<div style="background-color: red;">
-    This is a red background.
-</div>
-
 <h1 align="center">Hi 👋, I'm Rohan Chaudhary</h1>
 <h3 align="center">A passionate data scientist</h3>
 
