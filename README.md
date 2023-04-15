@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Chaudhary</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">A passionate programmert</h3>
 
 - 🎓 I'm currently pursuing **B.S. Computer science and Mathematics**
 
-- 🌱 I’m currently learning **data anaylsis with python**
+- 🌱 I’m currently learning **data anaylsis with python and frontend development**
 
 - ⚡ Fun fact **You cannot lick your own elbow**
 
