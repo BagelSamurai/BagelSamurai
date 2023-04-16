@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Chaudhary</h1>
-<h3 align="center">A passionate programmert</h3>
+<h3 align="center">A passionate programmer</h3>
 
 - 🎓 I'm currently pursuing **B.S. Computer science and Mathematics**
 
