@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Chaudhary</h1>
 <h3 align="center">A passionate data scientist</h3>
 
-- 🌱 I’m currently learning **data anaylsis with python**
+- 🌱 I’m currently learning **cybersecurity**
 
-- ⚡ Fun fact **fun**
+- ⚡ Fun fact **I have been to six different schools around the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
