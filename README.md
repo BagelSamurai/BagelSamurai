@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **fullstack web development**
 
 - ⚡ Fun fact **I have been to six different schools around the world**
+- 😎 Check out my portfolio website at **https://www.rohanc.tech/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
