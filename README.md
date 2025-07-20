@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Chaudhary</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">A senior at the University of Houston skilled in Web Development and Data Science</h3>
+<h3 align="center">I am currently a Teaching Assistant for Data Science I and II while also doing research on developing a digital twin of a MRI machine</h3>
 
-- 🌱 I’m currently learning **fullstack web development**
+- 🌱 I’m currently applying for internships/full time positions!
 
-- ⚡ Fun fact **I have been to six different schools around the world**
 - 😎 Check out my portfolio website at **https://www.rohanc.tech/**
 
 
