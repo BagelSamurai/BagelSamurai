@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Rohan Chaudhary</h1>
-<h3 align="center">A senior at the University of Houston skilled in Data Science</h3>
-<h3 align="center">I am currently a Teaching Assistant for Data Science I and II and seeking internship or job in Data Roles</h3>
+# Rohan Chaudhary
 
-- 🌱 I’m currently applying for internships/full time positions!
+**Data Science TA | B.S. Computer Science & Mathematics (Data Science) @ University of Houston**
 
-- 😎 Check out my portfolio website at **https://www.rohanc.tech/**
+I build end-to-end data pipelines and predictive models that quantify business impact. Currently a Teaching Assistant for Data Science I & II, mentoring 150+ students and co-authoring two course textbooks on machine learning.
 
+🎓 Graduating May 2026 · ☁️ AWS Certified Solutions Architect · 📍 Houston, TX
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan-chaudhary-2305a624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-chaudhary-2305a624a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rohan_cereal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rohan_cereal/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Featured Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [**LendingClub Credit Default Risk**]([https://github.com/BagelSamurai](https://github.com/BagelSamurai/Lending-Club-Default-Risk)) | AWS (S3, Glue, Athena, Lambda), Python, Tableau | Pipelined 1.17M loan records; 3 classifiers quantified $35M business impact |
+| [**EPA Greenhouse Gas Dashboard**]([https://github.com/BagelSamurai](https://github.com/BagelSamurai/Databricks-Emissions-Dashboard)) | Databricks, Spark SQL, Lakeview | Analyzed emissions across 3,000+ U.S. counties; top 10 states = 51% of CO₂e |
+| [**Customer RFM Segmentation**]([https://github.com/BagelSamurai](https://github.com/BagelSamurai/Customer-RFM-Analysis)) | BigQuery, Power BI | Segmented 287 customers into 8 cohorts via NTILE deciles for retention targeting |
+| [**Football Player Archetypes**]([https://github.com/BagelSamurai](https://github.com/BagelSamurai/Soccer-Players-Archetype)) | Python, t-SNE, K-Means | Clustered 1,450+ footballers across 5 European leagues beyond positional labels |
+
+---
+
+### Tech Stack
+
+**Data & ML:** Python · SQL · Pandas · Scikit-learn · TensorFlow · Spark · R · MATLAB
+**Visualization:** Tableau · Power BI · Databricks Lakeview · Matplotlib · Seaborn
+**Cloud & Infra:** AWS (S3, Glue, Athena, Lambda, QuickSight) · BigQuery · Docker
+**Also:** C++ · JavaScript · React · Node.js · MongoDB · Git
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-codes/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://rohancode.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohanc1021@gmail.com)
