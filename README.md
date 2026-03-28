@@ -2,9 +2,9 @@
 
 **Data Science TA | B.S. Computer Science & Mathematics (Data Science) @ University of Houston**
 
-I build end-to-end data pipelines and predictive models that quantify business impact. Currently a Teaching Assistant for Data Science I & II, mentoring 150+ students and co-authoring two course textbooks on machine learning.
+I build end-to-end data pipelines and predictive models that quantify business impact. Currently a Teaching Assistant for Data Science I & II, mentoring 150+ students and co-authoring two course textbooks on machine learning. Currently working towards getting my AWS SAA and learning full-stack development :)
 
-🎓 Graduating May 2026 · ☁️ AWS Certified Solutions Architect · 📍 Houston, TX
+🎓 Graduating May 2026 · 📍 Houston, TX
 
 ---
 
